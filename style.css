@@ -1,10 +1,11 @@
 body {
-    background-image: url(./style/traditional-coffee-cup-heart-shaped-steam-rustic-wood-70228609.jpg);
+    background-image: url(./assets/karl-fredrickson-TYIzeCiZ_60-unsplash.jpg);
     background-repeat: no-repeat;
     background-position: center center;
-    margin-right: 50px;
+    background-size: cover;
+    /* margin-right: 50px;
     margin-left: 50px;
-    margin-bottom: 20%;
+    margin-bottom: 20%; */
 }
 /* img {
     max-width: 100px; 
